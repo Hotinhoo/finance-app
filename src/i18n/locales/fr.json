@@ -1,0 +1,113 @@
+{
+  "app": {
+    "name": "FinancePro",
+    "description": "Gestion financière"
+  },
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "transactions": "Transactions",
+    "budgets": "Budgets",
+    "goals": "Objectifs",
+    "analysis": "Analyses",
+    "settings": "Paramètres"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "summary": "Résumé",
+    "balance": "Solde Total",
+    "income": "Revenus",
+    "expenses": "Dépenses",
+    "monthlyOverview": "Aperçu Mensuel",
+    "recentTransactions": "Transactions Récentes"
+  },
+  "transactions": {
+    "title": "Transactions",
+    "newTransaction": "Nouvelle Transaction",
+    "income": "Revenu",
+    "expense": "Dépense",
+    "date": "Date",
+    "description": "Description",
+    "category": "Catégorie",
+    "amount": "Montant",
+    "actions": "Actions",
+    "filter": "Filtrer",
+    "search": "Rechercher",
+    "all": "Toutes",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "confirmDelete": "Êtes-vous sûr de vouloir supprimer cette transaction ?"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "subtitle": "Personnalisez votre expérience avec l'application",
+    "settingsSaved": "Paramètres de {section} enregistrés avec succès !",
+    "saveChanges": "Enregistrer les Modifications",
+    "tabs": {
+      "account": "Compte",
+      "dashboard": "Tableau de bord",
+      "transactions": "Transactions",
+      "budget": "Budget",
+      "goals": "Objectifs",
+      "analysis": "Analyses",
+      "security": "Sécurité",
+      "general": "Général"
+    },
+    "account": {
+      "title": "Paramètres du Compte",
+      "fullName": "Nom Complet",
+      "email": "E-mail",
+      "phone": "Téléphone",
+      "defaultCurrency": "Devise par Défaut",
+      "notificationPreferences": "Préférences de Notification",
+      "pushNotifications": "Notifications Push",
+      "emailNotifications": "Notifications par E-mail"
+    },
+    "dashboard": {
+      "title": "Paramètres du Tableau de bord",
+      "elements": "Éléments du Tableau de bord",
+      "showBalance": "Afficher le Solde Total",
+      "showIncome": "Afficher les Revenus",
+      "showExpenses": "Afficher les Dépenses",
+      "showInvestments": "Afficher les Investissements",
+      "showRecentTransactions": "Afficher les Transactions Récentes",
+      "defaultPeriod": "Période par Défaut",
+      "weekly": "Hebdomadaire",
+      "monthly": "Mensuel",
+      "quarterly": "Trimestriel",
+      "yearly": "Annuel"
+    },
+    "general": {
+      "title": "Paramètres Généraux",
+      "language": "Langue",
+      "dateFormat": "Format de Date",
+      "theme": "Thème",
+      "light": "Clair",
+      "dark": "Sombre",
+      "system": "Système",
+      "numberFormat": "Format de Nombre",
+      "example": "Exemple",
+      "interfacePreferences": "Préférences d'Interface",
+      "compactMode": "Mode Compact",
+      "animations": "Animations",
+      "exportBackup": "Exportation et Sauvegarde",
+      "exportData": "Exporter les Données",
+      "cloudBackup": "Sauvegarde dans le Cloud"
+    }
+  },
+  "common": {
+    "select": "Sélectionner",
+    "confirm": "Confirmer",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "add": "Ajouter",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "all": "Tous",
+    "month": "Mois",
+    "year": "Année",
+    "day": "Jour",
+    "week": "Semaine"
+  }
+} 

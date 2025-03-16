@@ -1,0 +1,113 @@
+{
+  "app": {
+    "name": "FinanzasPro",
+    "description": "Gestión financiera"
+  },
+  "nav": {
+    "dashboard": "Panel",
+    "transactions": "Transacciones",
+    "budgets": "Presupuestos",
+    "goals": "Metas",
+    "analysis": "Análisis",
+    "settings": "Configuración"
+  },
+  "dashboard": {
+    "title": "Panel",
+    "summary": "Resumen",
+    "balance": "Saldo Total",
+    "income": "Ingresos",
+    "expenses": "Gastos",
+    "monthlyOverview": "Resumen Mensual",
+    "recentTransactions": "Transacciones Recientes"
+  },
+  "transactions": {
+    "title": "Transacciones",
+    "newTransaction": "Nueva Transacción",
+    "income": "Ingreso",
+    "expense": "Gasto",
+    "date": "Fecha",
+    "description": "Descripción",
+    "category": "Categoría",
+    "amount": "Monto",
+    "actions": "Acciones",
+    "filter": "Filtrar",
+    "search": "Buscar",
+    "all": "Todos",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "confirmDelete": "¿Estás seguro de que deseas eliminar esta transacción?"
+  },
+  "settings": {
+    "title": "Configuración",
+    "subtitle": "Personaliza tu experiencia con la aplicación",
+    "settingsSaved": "¡Configuración de {section} guardada con éxito!",
+    "saveChanges": "Guardar Cambios",
+    "tabs": {
+      "account": "Cuenta",
+      "dashboard": "Panel",
+      "transactions": "Transacciones",
+      "budget": "Presupuesto",
+      "goals": "Metas",
+      "analysis": "Análisis",
+      "security": "Seguridad",
+      "general": "General"
+    },
+    "account": {
+      "title": "Configuración de Cuenta",
+      "fullName": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "phone": "Teléfono",
+      "defaultCurrency": "Moneda Predeterminada",
+      "notificationPreferences": "Preferencias de Notificación",
+      "pushNotifications": "Notificaciones Push",
+      "emailNotifications": "Notificaciones por Correo Electrónico"
+    },
+    "dashboard": {
+      "title": "Configuración del Panel",
+      "elements": "Elementos del Panel",
+      "showBalance": "Mostrar Saldo Total",
+      "showIncome": "Mostrar Ingresos",
+      "showExpenses": "Mostrar Gastos",
+      "showInvestments": "Mostrar Inversiones",
+      "showRecentTransactions": "Mostrar Transacciones Recientes",
+      "defaultPeriod": "Período Predeterminado",
+      "weekly": "Semanal",
+      "monthly": "Mensual",
+      "quarterly": "Trimestral",
+      "yearly": "Anual"
+    },
+    "general": {
+      "title": "Configuración General",
+      "language": "Idioma",
+      "dateFormat": "Formato de Fecha",
+      "theme": "Tema",
+      "light": "Claro",
+      "dark": "Oscuro",
+      "system": "Sistema",
+      "numberFormat": "Formato de Número",
+      "example": "Ejemplo",
+      "interfacePreferences": "Preferencias de Interfaz",
+      "compactMode": "Modo Compacto",
+      "animations": "Animaciones",
+      "exportBackup": "Exportación y Respaldo",
+      "exportData": "Exportar Datos",
+      "cloudBackup": "Respaldo en la Nube"
+    }
+  },
+  "common": {
+    "select": "Seleccionar",
+    "confirm": "Confirmar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "add": "Añadir",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "all": "Todos",
+    "month": "Mes",
+    "year": "Año",
+    "day": "Día",
+    "week": "Semana"
+  }
+} 

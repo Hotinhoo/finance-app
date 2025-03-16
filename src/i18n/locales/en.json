@@ -1,0 +1,113 @@
+{
+  "app": {
+    "name": "FinancePro",
+    "description": "Financial management"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "transactions": "Transactions",
+    "budgets": "Budgets",
+    "goals": "Goals",
+    "analysis": "Analysis",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "summary": "Summary",
+    "balance": "Total Balance",
+    "income": "Income",
+    "expenses": "Expenses",
+    "monthlyOverview": "Monthly Overview",
+    "recentTransactions": "Recent Transactions"
+  },
+  "transactions": {
+    "title": "Transactions",
+    "newTransaction": "New Transaction",
+    "income": "Income",
+    "expense": "Expense",
+    "date": "Date",
+    "description": "Description",
+    "category": "Category",
+    "amount": "Amount",
+    "actions": "Actions",
+    "filter": "Filter",
+    "search": "Search",
+    "all": "All",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirmDelete": "Are you sure you want to delete this transaction?"
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Customize your app experience",
+    "settingsSaved": "{section} settings saved successfully!",
+    "saveChanges": "Save Changes",
+    "tabs": {
+      "account": "Account",
+      "dashboard": "Dashboard",
+      "transactions": "Transactions",
+      "budget": "Budget",
+      "goals": "Goals",
+      "analysis": "Analysis",
+      "security": "Security",
+      "general": "General"
+    },
+    "account": {
+      "title": "Account Settings",
+      "fullName": "Full Name",
+      "email": "Email",
+      "phone": "Phone",
+      "defaultCurrency": "Default Currency",
+      "notificationPreferences": "Notification Preferences",
+      "pushNotifications": "Push Notifications",
+      "emailNotifications": "Email Notifications"
+    },
+    "dashboard": {
+      "title": "Dashboard Settings",
+      "elements": "Dashboard Elements",
+      "showBalance": "Show Total Balance",
+      "showIncome": "Show Income",
+      "showExpenses": "Show Expenses",
+      "showInvestments": "Show Investments",
+      "showRecentTransactions": "Show Recent Transactions",
+      "defaultPeriod": "Default Period",
+      "weekly": "Weekly",
+      "monthly": "Monthly",
+      "quarterly": "Quarterly",
+      "yearly": "Yearly"
+    },
+    "general": {
+      "title": "General Settings",
+      "language": "Language",
+      "dateFormat": "Date Format",
+      "theme": "Theme",
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System",
+      "numberFormat": "Number Format",
+      "example": "Example",
+      "interfacePreferences": "Interface Preferences",
+      "compactMode": "Compact Mode",
+      "animations": "Animations",
+      "exportBackup": "Export and Backup",
+      "exportData": "Export Data",
+      "cloudBackup": "Cloud Backup"
+    }
+  },
+  "common": {
+    "select": "Select",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "add": "Add",
+    "search": "Search",
+    "filter": "Filter",
+    "all": "All",
+    "month": "Month",
+    "year": "Year",
+    "day": "Day",
+    "week": "Week"
+  }
+} 

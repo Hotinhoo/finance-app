@@ -1,0 +1,224 @@
+{
+  "app": {
+    "name": "FinançasPro",
+    "description": "Gerenciamento financeiro"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "transactions": "Transações",
+    "budgets": "Orçamentos",
+    "goals": "Metas",
+    "analysis": "Análises",
+    "settings": "Configurações"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "summary": "Resumo",
+    "balance": "Saldo Total",
+    "income": "Receitas",
+    "expenses": "Despesas",
+    "monthlyOverview": "Resumo Mensal",
+    "recentTransactions": "Transações Recentes"
+  },
+  "transactions": {
+    "title": "Transações",
+    "newTransaction": "Nova Transação",
+    "income": "Receita",
+    "expense": "Despesa",
+    "date": "Data",
+    "description": "Descrição",
+    "category": "Categoria",
+    "amount": "Valor",
+    "actions": "Ações",
+    "filter": "Filtrar",
+    "search": "Buscar",
+    "all": "Todas",
+    "edit": "Editar",
+    "delete": "Excluir",
+    "confirmDelete": "Tem certeza que deseja excluir esta transação?"
+  },
+  "settings": {
+    "title": "Configurações",
+    "subtitle": "Personalize sua experiência no aplicativo",
+    "settingsSaved": "Configurações de {section} salvas com sucesso!",
+    "saveChanges": "Salvar Alterações",
+    "tabs": {
+      "account": "Conta",
+      "dashboard": "Dashboard",
+      "transactions": "Transações",
+      "budget": "Orçamento",
+      "goals": "Metas",
+      "analysis": "Análises",
+      "security": "Segurança",
+      "general": "Geral"
+    },
+    "account": {
+      "title": "Configurações da Conta",
+      "fullName": "Nome Completo",
+      "email": "Email",
+      "phone": "Telefone",
+      "defaultCurrency": "Moeda Padrão",
+      "notificationPreferences": "Preferências de Notificação",
+      "pushNotifications": "Notificações por Push",
+      "emailNotifications": "Notificações por Email"
+    },
+    "dashboard": {
+      "title": "Configurações do Dashboard",
+      "elements": "Elementos do Dashboard",
+      "showBalance": "Mostrar Saldo Total",
+      "showIncome": "Mostrar Receitas",
+      "showExpenses": "Mostrar Despesas",
+      "showInvestments": "Mostrar Investimentos",
+      "showRecentTransactions": "Mostrar Transações Recentes",
+      "defaultPeriod": "Período Padrão",
+      "weekly": "Semanal",
+      "monthly": "Mensal",
+      "quarterly": "Trimestral",
+      "yearly": "Anual"
+    },
+    "general": {
+      "title": "Configurações Gerais",
+      "language": "Idioma",
+      "dateFormat": "Formato de Data",
+      "theme": "Tema",
+      "light": "Claro",
+      "dark": "Escuro",
+      "system": "Sistema",
+      "numberFormat": "Formato de Número",
+      "example": "Exemplo",
+      "interfacePreferences": "Preferências da Interface",
+      "compactMode": "Modo Compacto",
+      "animations": "Animações",
+      "exportBackup": "Exportação e Backup",
+      "exportData": "Exportar Dados",
+      "cloudBackup": "Backup na Nuvem"
+    }
+  },
+  "common": {
+    "select": "Selecione",
+    "confirm": "Confirmar",
+    "cancel": "Cancelar",
+    "save": "Salvar",
+    "edit": "Editar",
+    "delete": "Excluir",
+    "add": "Adicionar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "all": "Todos",
+    "month": "Mês",
+    "year": "Ano",
+    "day": "Dia",
+    "week": "Semana"
+  },
+  "auth": {
+    "fields": {
+      "name": "Nome",
+      "email": "Email",
+      "password": "Senha",
+      "confirmPassword": "Confirmar Senha"
+    },
+    "login": {
+      "title": "Entrar",
+      "subtitle": "Acesse sua conta para continuar",
+      "loginButton": "Entrar",
+      "loggingIn": "Entrando...",
+      "forgotPassword": "Esqueceu a senha?",
+      "noAccount": "Não tem uma conta?",
+      "signUp": "Criar conta"
+    },
+    "register": {
+      "title": "Criar Conta",
+      "subtitle": "Preencha os dados para criar sua conta",
+      "registerButton": "Criar Conta",
+      "registering": "Criando conta...",
+      "alreadyHaveAccount": "Já tem uma conta?",
+      "login": "Fazer login"
+    },
+    "resetPassword": {
+      "title": "Recuperar Senha",
+      "subtitle": "Digite seu email para receber instruções de recuperação",
+      "submit": "Enviar Link de Recuperação",
+      "sending": "Enviando...",
+      "successMessage": "Foi enviado um email com instruções para redefinir sua senha.",
+      "userNotFound": "Usuário não encontrado",
+      "genericError": "Ocorreu um erro ao enviar o email",
+      "rememberPassword": "Lembrou sua senha?",
+      "backToLogin": "Voltar ao login"
+    },
+    "errors": {
+      "invalidEmail": "Email inválido",
+      "wrongPassword": "Senha incorreta",
+      "userNotFound": "Usuário não encontrado",
+      "passwordMismatch": "As senhas não coincidem",
+      "weakPassword": "Senha muito fraca",
+      "emailInUse": "Email já está em uso",
+      "genericError": "Ocorreu um erro. Tente novamente."
+    },
+    "logout": {
+      "button": "Sair",
+      "confirmMessage": "Tem certeza que deseja sair?",
+      "loggingOut": "Saindo..."
+    },
+    "account": {
+      "profile": "Perfil",
+      "settings": "Configurações da Conta"
+    }
+  },
+  "landing": {
+    "hero": {
+      "title": "Controle financeiro simples e eficiente",
+      "subtitle": "Gerencie suas finanças pessoais, acompanhe gastos, crie orçamentos e alcance seus objetivos financeiros.",
+      "getStarted": "Começar agora",
+      "login": "Já tenho uma conta"
+    },
+    "demo": {
+      "balanceTitle": "Saldo Total",
+      "income": "Receitas",
+      "expenses": "Despesas",
+      "transaction1": "Supermercado",
+      "transaction2": "Salário"
+    },
+    "features": {
+      "title": "Por que escolher o FinançasPro?",
+      "feature1": {
+        "title": "Orçamentos inteligentes",
+        "description": "Crie orçamentos personalizados e acompanhe seus gastos por categoria."
+      },
+      "feature2": {
+        "title": "Controle de transações",
+        "description": "Registre e categorize suas receitas e despesas facilmente."
+      },
+      "feature3": {
+        "title": "Relatórios detalhados",
+        "description": "Visualize gráficos e relatórios para entender seus hábitos financeiros."
+      },
+      "feature4": {
+        "title": "Alertas e lembretes",
+        "description": "Receba notificações sobre contas a pagar e quando ultrapassar limites de orçamento."
+      },
+      "feature5": {
+        "title": "Segurança garantida",
+        "description": "Seus dados financeiros são protegidos com as mais modernas tecnologias de segurança."
+      }
+    },
+    "cta": {
+      "title": "Comece a gerenciar suas finanças hoje mesmo",
+      "subtitle": "Junte-se a milhares de pessoas que já estão economizando e atingindo seus objetivos financeiros.",
+      "button": "Criar minha conta gratuitamente"
+    },
+    "footer": {
+      "about": "Sobre",
+      "terms": "Termos",
+      "privacy": "Privacidade",
+      "contact": "Contato",
+      "rights": "Todos os direitos reservados"
+    }
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados"
+  },
+  "error": {
+    "allFieldsRequired": "Todos os campos são obrigatórios",
+    "invalidCredentials": "Credenciais inválidas"
+  }
+} 
